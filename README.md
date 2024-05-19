@@ -1,16 +1,6 @@
-# movie_mixer
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h1>Movie Mixer</h1>
+    <h2>Overview</h2>
+    <p>Welcome to Movie Mixer, an app that meets all your movie needs. Use this app to stay up to date with the latest cinema, rate the movies you've seen, update your watch later, and get personalised recommendations based on your preferences.</p>
